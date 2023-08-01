@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Avernoo\\Desktop\\Coso\\Descargas\\Nueva carpeta\\PAV\\2021\\Lab 1\\Lab2021(linux)",
+      "environment": [],
+      "program": "c:\\Users\\Avernoo\\Desktop\\Coso\\Descargas\\Nueva carpeta\\PAV\\2021\\Lab 1\\Lab2021(linux)\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
